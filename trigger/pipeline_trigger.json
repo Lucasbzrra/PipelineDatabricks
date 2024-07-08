@@ -2,7 +2,7 @@
 	"name": "pipeline_trigger",
 	"properties": {
 		"annotations": [],
-		"runtimeState": "Started",
+		"runtimeState": "Stopped",
 		"pipelines": [
 			{
 				"pipelineReference": {
@@ -14,7 +14,7 @@
 		"type": "ScheduleTrigger",
 		"typeProperties": {
 			"recurrence": {
-				"frequency": "Hour",
+				"frequency": "Minute",
 				"interval": 1,
 				"startTime": "2024-07-08T19:16:00",
 				"timeZone": "E. South America Standard Time"
