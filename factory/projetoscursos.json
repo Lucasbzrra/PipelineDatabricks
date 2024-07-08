@@ -1,0 +1,9 @@
+{
+	"name": "projetoscursos",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "afe30ea7-1b8b-48e9-8b67-4a5e992607e0",
+		"tenantId": "38ae24cc-0597-4e56-b281-496bc393f5ba"
+	}
+}
